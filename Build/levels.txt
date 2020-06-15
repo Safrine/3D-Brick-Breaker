@@ -1,0 +1,19 @@
+levels 2
+
+level 1
+B N B N B NoBonus
+N N N N N NoBonus
+B N B N B PlayerMallus
+N N N N N NoBonus
+N N N N N NoBonus
+N N N N N NoBonus
+end
+
+level 2
+B N B N B Nobonus
+N B N B N Nobonus
+B N B N B PlayerBonus
+N B N B N MultiBall
+N N B N N PlayerMallus
+N B N B N Nobonus
+end
